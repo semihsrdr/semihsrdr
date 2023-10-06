@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @semihsrdr
 - 👀 I’m interested in computer sciences.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and android development
 - 📫 How to reach me : ig=semihsrdr, mail=smhserdarshn52@gmail.com
 
 <!---
