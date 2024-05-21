@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">A Passionate Jr. Python Developer and Computer Engineering Studend</h3>
 
-- 🌱 I’m currently learning **Data Science and Web Development**
+- 🌱 I’m currently learning **Data Science and Web Development with Python**
 
 - 📫 How to reach me **smhserdarshn52@gmail.com**
 
