@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">A Passionate Jr. Python Developer and Computer Engineering Studend</h3>
+<h3 align="center">A Passionate Jr. Python Developer and Computer Engineering Student</h3>
 
 - 🌱 I’m currently learning **Data Science and Web Development with Python**
 
